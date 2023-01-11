@@ -1,5 +1,5 @@
 ### Olá, Me chamo Luan Colombo 👋 #Hi Devs!
-Atualmente Estudando :<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60" />
+Skills :<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60" />
 
 <div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=luancolombo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
 
